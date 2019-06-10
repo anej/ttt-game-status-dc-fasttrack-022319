@@ -15,10 +15,10 @@ WIN_COMBINATIONS = [
   [2,4,6]
 ]
 
-def won?(board) 
-  #any match to WIN_COMBINATIONS is true and returns the index with winning combo
-  #empty board is false 
-  #no match to WIN_COMBINATIONS is false
-end
+# def won?(board) 
+#   #any match to WIN_COMBINATIONS is true and returns the index with winning combo
+#   #empty board is false 
+#   #no match to WIN_COMBINATIONS is false
+# end
 
-won?(board)
+# won?(board)
